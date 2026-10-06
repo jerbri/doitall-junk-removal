@@ -87,7 +87,7 @@ All from Google Fonts.
 ## Imagery
 
 - Real photos of real jobs beat stock photos every time. Before/after shots are gold.
-- Pull from their TikTok/Instagram: truck loaded, empty garage after, the two of them working.
+- Pull from their TikTok and Facebook: truck loaded, empty garage after, the two of them working.
 - Avoid generic stock "smiling movers."
 
 ---
@@ -110,6 +110,6 @@ All from Google Fonts.
 - Phone: (863) 259-6899
 - Email: doitalljunk@gmail.com
 - TikTok: @doitalljunkremoval
-- Socials: Instagram, Facebook (handles to be confirmed)
+- Facebook: https://www.facebook.com/profile.php?id=61594613558516
 
 All contact details live in one file: `site/src/business.js`.

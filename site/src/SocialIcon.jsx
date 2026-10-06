@@ -1,4 +1,4 @@
-import { Facebook, Instagram } from "lucide-react";
+import { Facebook } from "lucide-react";
 
 function TikTok({ size = 24 }) {
   return (
@@ -8,7 +8,7 @@ function TikTok({ size = 24 }) {
   );
 }
 
-const icons = { TikTok, Instagram, Facebook };
+const icons = { TikTok, Facebook };
 
 export function SocialIcon({ name, size = 24 }) {
   const Icon = icons[name];

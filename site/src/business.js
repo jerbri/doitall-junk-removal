@@ -1,5 +1,4 @@
-// Every contact detail on the site comes from here. Swap the placeholders
-// once the real social handles are confirmed.
+// Every contact detail on the site comes from here.
 export const business = {
   name: "Do It All Junk Removal",
   owners: "Ryan & Jacob",
@@ -10,8 +9,7 @@ export const business = {
   serviceArea: "Central Florida",
   socials: [
     { name: "TikTok", handle: "@doitalljunkremoval", url: "https://www.tiktok.com/@doitalljunkremoval" },
-    { name: "Instagram", handle: "@doitalljunk", url: "https://www.instagram.com/doitalljunk" },
-    { name: "Facebook", handle: "Do It All Junk Removal", url: "https://www.facebook.com/doitalljunk" }
+    { name: "Facebook", handle: "Do It All Junk Removal", url: "https://www.facebook.com/profile.php?id=61594613558516" }
   ]
 };
 
