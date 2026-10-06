@@ -105,9 +105,9 @@ All from Google Fonts.
 
 ---
 
-## Contact (placeholders until finalized)
+## Contact
 
-- Phone: (555) 555-0123
+- Phone: (863) 259-6899
 - Email: doitalljunk@gmail.com
 - Socials: TikTok, Instagram, Facebook (handles to be confirmed)
 

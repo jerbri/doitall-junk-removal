@@ -1,11 +1,11 @@
 // Every contact detail on the site comes from here. Swap the placeholders
-// once the real phone number and social handles are confirmed.
+// once the real social handles are confirmed.
 export const business = {
   name: "Do It All Junk Removal",
   owners: "Ryan & Jacob",
   tagline: "You point. We haul.",
-  phoneDisplay: "(555) 555-0123",
-  phoneDial: "+15555550123",
+  phoneDisplay: "(863) 259-6899",
+  phoneDial: "+18632596899",
   email: "doitalljunk@gmail.com",
   serviceArea: "Central Florida",
   socials: [
