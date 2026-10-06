@@ -109,6 +109,7 @@ All from Google Fonts.
 
 - Phone: (863) 259-6899
 - Email: doitalljunk@gmail.com
-- Socials: TikTok, Instagram, Facebook (handles to be confirmed)
+- TikTok: @doitalljunkremoval
+- Socials: Instagram, Facebook (handles to be confirmed)
 
 All contact details live in one file: `site/src/business.js`.

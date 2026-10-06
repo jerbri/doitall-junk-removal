@@ -9,7 +9,7 @@ export const business = {
   email: "doitalljunk@gmail.com",
   serviceArea: "Central Florida",
   socials: [
-    { name: "TikTok", handle: "@doitalljunk", url: "https://www.tiktok.com/@doitalljunk" },
+    { name: "TikTok", handle: "@doitalljunkremoval", url: "https://www.tiktok.com/@doitalljunkremoval" },
     { name: "Instagram", handle: "@doitalljunk", url: "https://www.instagram.com/doitalljunk" },
     { name: "Facebook", handle: "Do It All Junk Removal", url: "https://www.facebook.com/doitalljunk" }
   ]
