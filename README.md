@@ -28,11 +28,9 @@ Pushing to `main` builds and deploys to GitHub Pages via `.github/workflows/depl
 
 ### Custom domain
 
-1. Buy the domain and point DNS at GitHub Pages (A records to GitHub's Pages IPs, or a CNAME for `www`).
-2. Add a `site/public/CNAME` file containing the domain (e.g. `www.doitalljunk.com`).
-3. Set the domain in the repo's Settings > Pages and enable HTTPS.
+Live at https://doitalljunk.com. The apex A records point at GitHub's Pages IPs, and the domain is set in the repo's Settings > Pages (`site/public/CNAME` mirrors it). For `www` to work too, add a DNS CNAME `www` -> `jerbri.github.io`; GitHub redirects it to the apex.
 
-The workflow picks up the new base path automatically.
+The workflow picks up the base path automatically.
 
 ## Brand
 
